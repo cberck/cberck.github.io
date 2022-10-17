@@ -131,7 +131,7 @@ a {
     color: #000;
 }
 
-#social .fa {
+#social .fa-brands {
     background-color: #00cc00;
     padding: 3px;
     border-radius: 3px;
@@ -144,10 +144,10 @@ a {
     margin-left: 8px;
 }
 
-.fa {
+.fa-brands {
     transition: all .1s;
 }
 
-.fa:hover {
+.fa-brands:hover {
     transform: scale(1.2);
 }
