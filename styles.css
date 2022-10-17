@@ -133,14 +133,14 @@ a {
 
 #social .fa-brands {
     background-color: #00cc00;
-    padding: 3px;
+    padding: 5px 3px 3px 3px;
     border-radius: 3px;
     border: 1px solid #00cc00;
     color: white;
     font-size: 60px;
     width: 60px;
     text-align: center;
-    height: 60px;
+    height: 55px;
     margin-left: 8px;
 }
 
